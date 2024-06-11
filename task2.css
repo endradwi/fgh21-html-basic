@@ -1,0 +1,40 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 8px;
+    margin-top: 0;
+    padding-bottom: 8px;
+    padding-right: 30px;
+}
+sup {
+    font-size: 8px;
+}
+
+.head{
+    background-color: #1e4c7d;
+    color: white;
+    border: none; 
+}
+
+.pos{
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.top{
+    color: #1e4c7d;
+    padding: 20px;
+}
+td{
+    color: #1e4c7d;
+}
+.body{
+    background-color: #c3d1de;
+}
+img{
+    margin-left: 630px;
+    margin-top: -15px;
+    
+}
