@@ -1,0 +1,12 @@
+div{
+    border-width: 2px;
+    border-radius: 50px;
+    background-color:  #2a2a69;
+    width: 500px;
+    height: 500px;
+}
+
+h1{
+    background-color:  #242156;
+    border-radius: 50px;
+}
